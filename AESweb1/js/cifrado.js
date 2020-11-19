@@ -1,7 +1,7 @@
 //nuestras variables
 
-var cadena = "Habia una vez un patito que decia miau miau miau y se cayo en una coladera y se lastimo la patita y llora T_T";
-var clave = "patitocolorpatitocolorpatitocolorpatitocolor";
+let cadena = "Habia una vez un patito que decia miau miau miau y se cayo en una coladera y se lastimo la patita y llora T_T";
+const clave = "patitocolorpatitocolorpatitocolorpatitocolor";
 
 //la clave forzosamente necesita 16 , 24, 32 Padding PKCS5
 
